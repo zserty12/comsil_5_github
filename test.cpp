@@ -5,5 +5,6 @@ void main() {
 	cout << "Hello World!" << endl;
 	cout << "Test1" << endl;
 	cout << "Test2" << endl;
-i}
->>>>>>> test2
+	cout << "Test3" << endl;
+}
+
